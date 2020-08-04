@@ -1,5 +1,5 @@
 ### Hi there 
-## สวัสดีครับทุกๆคน
+# สวัสดีครับทุกๆคน
 - 🌱 I’m currently learning Computer Engineering.
 <!--
 **sawid/sawid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
