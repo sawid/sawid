@@ -1,6 +1,6 @@
-## Hi there สวัสดีครับทุกๆคน
+## Hi everyone | สวัสดีครับทุกๆคน
 
-- 🌱 I’m currently learning Computer Engineering.
+- 📖 I’m currently learning Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 <!--
 **sawid/sawid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
