@@ -1,6 +1,10 @@
 ## Hi everyone | สวัสดีครับทุกๆคน
 
-- 📖 I’m currently learning Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
+- My Name is Sawid. You can call me "Folk".
+- I’m currently studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
+##
+- ผมชื่อ สวิตต์ ครับ หรือเรียกว่า "โฟล์ค" ก็ได้ครับ
+- ตอนนี้กำลังศึกษาอยู่ที่ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง ในสาขาวิชาวิศวกรรมคอมพิวเตอร์ครับ
 <!--
 **sawid/sawid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
