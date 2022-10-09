@@ -8,6 +8,7 @@
 ## **Contacts**
 - [Facebook](https://facebook.com/folksawit)
 - [Instagram](https://www.instagram.com/folksawit)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sawid&theme=radical)
 <!--
 **sawid/sawid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
