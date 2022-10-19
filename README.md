@@ -1,4 +1,4 @@
-## **Hi everyone | สวัสดีครับทุกๆคน**
+## **Hi everyone | สวัสดีครับ**
 
 - My Name is Sawid.
 - I’m currently studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
