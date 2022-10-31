@@ -1,10 +1,8 @@
 ## **Hi everyone | สวัสดีครับ**
 
-- My Name is Sawid.
-- I’m currently studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
-##
-- ผมชื่อ สวิตต์ ครับ
-- ตอนนี้กำลังศึกษาอยู่ที่ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง ในสาขาวิชาวิศวกรรมคอมพิวเตอร์ครับ
+- Sawid.
+- Currently I'm studying in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
+
 ## **Contacts**
 - [Facebook](https://facebook.com/folksawit)
 - [Instagram](https://www.instagram.com/folksawit)
