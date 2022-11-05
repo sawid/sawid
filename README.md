@@ -3,9 +3,6 @@
 - Sawid.
 - Currently I'm studying in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 
-## **Contacts**
-- [Facebook](https://facebook.com/folksawit)
-- [Instagram](https://www.instagram.com/folksawit)
 ##
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sawid&theme=radical)
 ##
