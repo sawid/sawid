@@ -1,7 +1,7 @@
 # <div align="center">I'm Sawid, a full-stack developer 👨‍💻 🚀</div>  
 <div align="center">Studying in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang</div> 
 
-# <div align="center">📊 GitHub Stats:</div> 
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sawid&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sawid&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sawid&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
