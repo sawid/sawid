@@ -1,6 +1,4 @@
-# **Hi everyone | สวัสดีครับ**
-
-- Sawid.
+# <div align="center">I'm Sawid, a full-stack developer 👨‍💻 🚀</div>  
 - Currently I'm studying in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 
 # 📊 GitHub Stats:
