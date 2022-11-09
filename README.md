@@ -1,5 +1,5 @@
 # <div align="center">I'm Sawid, a full-stack developer 👨‍💻 🚀</div>  
-- Currently I'm studying in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
+## <div align="center">Studying in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang</div> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sawid&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
