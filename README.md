@@ -1,5 +1,5 @@
 # <div align="center">I'm Sawid, a full-stack developer 👨‍💻 🚀</div>  
-<div align="center">Studying in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang</div> 
+<div align="center">Master's degree student in Computer Engineering and Machine Learning Developer</div> 
 
 ### Frontend  
 <div align="center">  
